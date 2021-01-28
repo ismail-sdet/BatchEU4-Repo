@@ -7,3 +7,5 @@ making some changes
 committing the changes
 pushing it back to
 remote repository
+
+myFile2 MORE STUFF HERE
